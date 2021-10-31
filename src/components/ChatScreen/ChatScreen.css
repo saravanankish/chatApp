@@ -1,0 +1,19 @@
+.chatMenu {
+  flex: 3.5;
+}
+
+.chatBox {
+  flex: 5.5;
+}
+
+.chatOnline {
+  flex: 3;
+}
+
+.searchBar {
+  border: none;
+}
+
+.searchBar:focus {
+  border: none;
+}
