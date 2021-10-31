@@ -12,7 +12,7 @@ class Navbar extends Component {
         const Btns = this.props.btns;
         return (
             <div className="navbar h-14 w-screen flex pl-28 pr-28 items-center justify-between absolute">
-                <div className="title text-2xl font-semibold text-white">Chat App</div>
+                <div className="title text-2xl font-semibold text-white cursor-default">Chat App</div>
                 <Btns />
             </div>
         )
